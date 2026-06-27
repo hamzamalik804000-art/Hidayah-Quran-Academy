@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Online Quran Academy",
+  "description": "An elegant, modern online learning platform for Quranic education. Includes comprehensive courses, flexible fee structures, trial registration, and a dedicated admin/teacher dashboard to manage requests, assignments, student attendance, and fee payments.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
